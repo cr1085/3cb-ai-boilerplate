@@ -78,7 +78,7 @@ python app/main.py
 
 ---
 
-### 🛠️ ¿Cómo Modificarlo?
+### ¿Cómo Modificarlo?
 
 1.  **Cambia la Tarea:** Edita el archivo `prompts/tareas.txt` para darle una nueva misión a tu agente.
 2.  **Mejora el Cerebro:** Edita `prompts/sistema.txt` para cambiar la personalidad, instrucciones y reglas del agente.
