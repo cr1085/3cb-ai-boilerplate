@@ -1,0 +1,27 @@
+# --- .gitignore ---
+
+# Archivos de entorno
+.env
+.env.*
+
+# Dependencias y entornos virtuales
+venv/
+/venv/
+*.venv
+.venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+tutorial/
+
+
+# Archivos de IDE y sistema
+.vscode/
+.idea/
+.DS_Store
+*.swp
+

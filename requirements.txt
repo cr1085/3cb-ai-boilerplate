@@ -1,0 +1,5 @@
+python-dotenv
+openai
+requests
+# Opcional: langchains, litellm, ollama,etc.
+# Mi recomendación: Mantenlo en "vanilla"  (solo openai y python-dotenv)
